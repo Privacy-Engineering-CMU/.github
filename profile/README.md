@@ -1,6 +1,8 @@
 # Privacy Engineering Program at Carnegie Mellon University
 
-<div style="text-align:center"><img width="400" src="./img/logo.png" /></div>
+<p align="center">
+<img width="400" src="./img/logo.png" />
+</p>
 
 ### Welcome to the Privacy Engineering Program Github Repository!
 
