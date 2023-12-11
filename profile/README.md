@@ -1,4 +1,4 @@
-# Privacy Engineering Program at Carnegie Mellon University
+# Privacy Engineering at CMU
 
 <p align="center">
 <img width="400" src="./img/logo.png" />
