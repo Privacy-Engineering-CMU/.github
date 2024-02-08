@@ -1,7 +1,7 @@
 # Privacy Engineering at CMU
 
 <p align="center">
-<img width="400" src="./img/logo.png" />
+<img width="400" src="/img/logo.png" />
 </p>
 
 ### Welcome to the Privacy Engineering Program Github Repository!
